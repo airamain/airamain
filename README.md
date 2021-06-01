@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Iramain</h1>
-<h3 align="center">A passionate Web Full Stack developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=airamain&label=Profile%20views&color=0e75b6&style=flat" alt="airamain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airamain" alt="airamain" /></a> </p>
+<h3 align="center">A passionate fullStack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Wifi-Manager](https://github.com/airamain/Wifi-Manager)
 
@@ -19,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/jose-manuel-adrian-iramain-1ab15218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-manuel-adrian-iramain-1ab15218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvqk9f7qhs1abryujerqyna%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jose-manuel-adrian-iramain-1ab15218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jose-manuel-adrian-iramain-1ab15218" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,10 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/airamain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/airamain" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=airamain&show_icons=true&locale=en&layout=compact" alt="airamain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airamain&show_icons=true&locale=en" alt="airamain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airamain&" alt="airamain" /></p>
-
