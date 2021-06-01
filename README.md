@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Iramain</h1>
-<h3 align="center">A passionate fullStack developer from Argentina</h3>
+<h3 align="center">A passionate Web Full Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airamain&label=Profile%20views&color=0e75b6&style=flat" alt="airamain" /> </p>
 
